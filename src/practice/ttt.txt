@@ -1,0 +1,24 @@
+Filesystem      Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s1   932Gi   10Gi  268Gi     4%  488007 9767490153    0%   /
+devfs          188Ki  188Ki    0Bi   100%     650          0  100%   /dev
+/dev/disk1s2   932Gi  651Gi  268Gi    71% 1333302 9766644858    0%   /System/Volumes/Data
+/dev/disk1s5   932Gi  1.0Gi  268Gi     1%       1 9767978159    0%   /private/var/vm
+map auto_home    0Bi    0Bi    0Bi   100%       0          0  100%   /System/Volumes/Data/home
+Filesystem      Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s1   932Gi   10Gi  268Gi     4%  488007 9767490153    0%   /
+devfs          188Ki  188Ki    0Bi   100%     650          0  100%   /dev
+/dev/disk1s2   932Gi  651Gi  268Gi    71% 1333333 9766644827    0%   /System/Volumes/Data
+/dev/disk1s5   932Gi  1.0Gi  268Gi     1%       1 9767978159    0%   /private/var/vm
+map auto_home    0Bi    0Bi    0Bi   100%       0          0  100%   /System/Volumes/Data/home
+Filesystem      Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s1   932Gi   10Gi  268Gi     4%  488007 9767490153    0%   /
+devfs          188Ki  188Ki    0Bi   100%     650          0  100%   /dev
+/dev/disk1s2   932Gi  651Gi  268Gi    71% 1333342 9766644818    0%   /System/Volumes/Data
+/dev/disk1s5   932Gi  1.0Gi  268Gi     1%       1 9767978159    0%   /private/var/vm
+map auto_home    0Bi    0Bi    0Bi   100%       0          0  100%   /System/Volumes/Data/home
+Filesystem      Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s1   932Gi   10Gi  268Gi     4%  488007 9767490153    0%   /
+devfs          188Ki  188Ki    0Bi   100%     650          0  100%   /dev
+/dev/disk1s2   932Gi  651Gi  268Gi    71% 1333343 9766644817    0%   /System/Volumes/Data
+/dev/disk1s5   932Gi  1.0Gi  268Gi     1%       1 9767978159    0%   /private/var/vm
+map auto_home    0Bi    0Bi    0Bi   100%       0          0  100%   /System/Volumes/Data/home
