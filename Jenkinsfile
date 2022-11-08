@@ -14,7 +14,7 @@ pipeline {
               steps {
                   withAWS(region:'us-east-1',credentials:'jenkins_policy') {
                   sh 'echo "Uploading content with AWS creds"'
-                      s3Upload(pathStyleAccessEnabled: true, payloadSigningEnabled: true, file:'practice01.py', bucket:'big-data-june-2022')
+                      s3Upload(pathStyleAccessEnabled: true, payloadSigningEnabled: true, file:'final_product.py', bucket:'big-data-june-2022')
                   }
               }
          }
